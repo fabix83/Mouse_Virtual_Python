@@ -3,6 +3,7 @@
 '''
 Autor: Fabio Felix
 Nome: Mouse Virtual
+https://github.com/fabix83/Mouse_Virtual_Python
 
 Este programa é um software livre: você pode redistribuí-lo e/ou modificá-lo.
 
